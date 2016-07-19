@@ -10,6 +10,6 @@ appName.list
 dataCloudDisk_space_dir_create.sh
     * the shell
     * WARRING !!! U must check out in the actual evironment, 
-        [ PREFIX_PATH=/ ] && comment the line [ rm -rf ${PREFIX_PATH}/* ]
+        [ PREFIX_PATH=# mount path # ] && comment the line [ rm -rf ${PREFIX_PATH}/* ]
     * usage : ./dataCloudDisk_space_dir_create.sh
 

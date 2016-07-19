@@ -2,8 +2,8 @@
 
 # !!! WARRING !!!
 # PREFIX_PATH For Debug 
-# In the actual environment PREFIX_PATH MUST BE eque to /
-# PREFIX_PATH = /
+# In the actual environment PREFIX_PATH MUST BE eque to client server mount path
+# PREFIX_PATH = /mnt/mfs
 PREFIX_PATH=/home/liubin/testspace/test_dir/
 
 # configure 
