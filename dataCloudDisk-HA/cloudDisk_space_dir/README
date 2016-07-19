@@ -1,0 +1,13 @@
+This tools are built for help Oper create dataCloudDisk stroge directorys.
+satsName.list 
+    * the list of satellite's name. 
+    * empty line is illegal.
+
+appName.list
+    * the list of Application's name.
+    * empty line is illegal.
+
+dataCloudDisk_space_dir_create.sh
+    * the shell
+    * usage : ./dataCloudDisk_space_dir_create.sh
+
